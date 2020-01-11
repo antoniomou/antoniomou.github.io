@@ -16,8 +16,18 @@
     font-size: 100px;
 }
 
+.b-description{
+    text-transform: none;
+    color: grey;
+    font-family: ubuntu;
+    font-weight: 150;
+    font-size: 30px;
+
+}
+
 .b-btn{
     border: 2px solid #ff6400;
+    background-color: rgba(255, 255, 255, 0.4);
     color: #ff6400;
     text-transform: uppercase;
     padding: 8px;
