@@ -7,6 +7,16 @@
     padding: 20px;
 }
 
+
+.o-containerpages {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    padding: 20px;
+}
+
 .b-title{
     text-transform: none ;
     color: #ff6400;
@@ -48,3 +58,15 @@ img{
     width: 100%;
 }
 
+.b-description-sm{
+    text-transform: none;
+    color: grey;
+    font-family: ubuntu;
+    font-weight: 100;
+    font-size: 15px;
+    text-align: center;
+}
+
+.b-gallery {
+    margin: 20px;
+}
